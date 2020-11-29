@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/genetic-algorithm/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/genetic-algorithm/static/js/main.baaf7a66.chunk.js",
-    "main.js.map": "/genetic-algorithm/static/js/main.baaf7a66.chunk.js.map",
-    "runtime-main.js": "/genetic-algorithm/static/js/runtime-main.03e17802.js",
-    "runtime-main.js.map": "/genetic-algorithm/static/js/runtime-main.03e17802.js.map",
-    "static/js/2.89bc22dc.chunk.js": "/genetic-algorithm/static/js/2.89bc22dc.chunk.js",
-    "static/js/2.89bc22dc.chunk.js.map": "/genetic-algorithm/static/js/2.89bc22dc.chunk.js.map",
-    "static/js/3.564c11b8.chunk.js": "/genetic-algorithm/static/js/3.564c11b8.chunk.js",
-    "static/js/3.564c11b8.chunk.js.map": "/genetic-algorithm/static/js/3.564c11b8.chunk.js.map",
-    "index.html": "/genetic-algorithm/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/genetic-algorithm/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.89bc22dc.chunk.js.LICENSE.txt": "/genetic-algorithm/static/js/2.89bc22dc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/genetic-algorithm/static/media/logo.6ce24c58.svg"
+    "main.css": "/genetic-algorithms/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/genetic-algorithms/static/js/main.baaf7a66.chunk.js",
+    "main.js.map": "/genetic-algorithms/static/js/main.baaf7a66.chunk.js.map",
+    "runtime-main.js": "/genetic-algorithms/static/js/runtime-main.8da7530b.js",
+    "runtime-main.js.map": "/genetic-algorithms/static/js/runtime-main.8da7530b.js.map",
+    "static/js/2.89bc22dc.chunk.js": "/genetic-algorithms/static/js/2.89bc22dc.chunk.js",
+    "static/js/2.89bc22dc.chunk.js.map": "/genetic-algorithms/static/js/2.89bc22dc.chunk.js.map",
+    "static/js/3.564c11b8.chunk.js": "/genetic-algorithms/static/js/3.564c11b8.chunk.js",
+    "static/js/3.564c11b8.chunk.js.map": "/genetic-algorithms/static/js/3.564c11b8.chunk.js.map",
+    "index.html": "/genetic-algorithms/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/genetic-algorithms/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.89bc22dc.chunk.js.LICENSE.txt": "/genetic-algorithms/static/js/2.89bc22dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/genetic-algorithms/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03e17802.js",
+    "static/js/runtime-main.8da7530b.js",
     "static/js/2.89bc22dc.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.baaf7a66.chunk.js"
